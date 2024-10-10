@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635859376 source:c:\users\tirth\onedrive\documents\cpp\a2_elagamal\impl.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
