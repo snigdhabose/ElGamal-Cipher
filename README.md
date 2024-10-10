@@ -1,4 +1,4 @@
-# ElGamalCipher
+# ElGamalCipher 🔐✉️
 
 The **ElGamalCipher** program implements the ElGamal encryption algorithm 🔒, a public-key cryptographic system that provides a means of securely transmitting messages. This algorithm is based on the difficulty of solving the discrete logarithm problem, making it a robust choice for encrypting sensitive information 🔐.
 
