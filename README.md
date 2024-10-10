@@ -1,13 +1,11 @@
 # ElGamalCipher
 
-The ElGamalCipher program implements the ElGamal encryption algorithm, allowing users to encrypt and decrypt messages. The program displays the encrypted and decrypted messages.
-# ElGamalCipher
+The **ElGamalCipher** program implements the ElGamal encryption algorithm 🔒, a public-key cryptographic system that provides a means of securely transmitting messages. This algorithm is based on the difficulty of solving the discrete logarithm problem, making it a robust choice for encrypting sensitive information 🔐.
 
-The **ElGamalCipher** program implements the ElGamal encryption algorithm, a public-key cryptographic system that provides a means of securely transmitting messages. This algorithm is based on the difficulty of solving the discrete logarithm problem, making it a robust choice for encrypting sensitive information. 
+With the ElGamalCipher, users can easily encrypt plaintext messages into ciphertext ✉️, which can be transmitted over insecure channels without the risk of unauthorized access. The program also includes a decryption feature that allows users to retrieve the original plaintext message from the ciphertext, ensuring that the information remains confidential and secure 🔑.
 
-With the ElGamalCipher, users can easily encrypt plaintext messages into ciphertext, which can be transmitted over insecure channels without the risk of unauthorized access. The program also includes a decryption feature that allows users to retrieve the original plaintext message from the ciphertext, ensuring that the information remains confidential and secure.
+The program provides a clear and user-friendly interface, displaying both the encrypted and decrypted messages for easy verification of the encryption process 📜. By utilizing modular arithmetic, the ElGamalCipher ensures high levels of security while maintaining usability for users seeking to protect their communications. 🌟
 
-The program provides a clear and user-friendly interface, displaying both the encrypted and decrypted messages for easy verification of the encryption process. By utilizing modular arithmetic, the ElGamalCipher ensures high levels of security while maintaining usability for users seeking to protect their communications.
 
 ## Steps to Run
 
